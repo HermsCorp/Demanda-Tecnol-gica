@@ -20,7 +20,7 @@ Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre 
 | Scrum Master  | Laura Salles Ferreira |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-salles-ferreira-26992828a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LauraSalles06)     |
 | Team Member   | Enderli dos Passos Santos         |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enderli-dos-passos-santos-370677169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/enderlipassos)        |
 |  Team Member  | Giovani Ribeiro Rocha Machado                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-rocha-6a7888304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Giovani365)        |
-|  Team Member  | Marcos Santana da Silva                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
+|  Team Member  | Marcos Santana da Silva                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-santana04?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcossantana1)   |
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
@@ -33,23 +33,28 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Plataforma digital Jira Softaware;
+ > Aplicato WhatsApp messenger como forma de comunicação;
+ > Softwares do Pacote Office;
   
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ > Base de Dados da Comex stat;
+ > Softaware Microsft Power Bi.;
+ > Plataforma Digital Github.com;
+ > Armazenamento em nuvem utilizando Google Drive;
+ > Linguagem de programação Python;
 
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Acessar dados consolidados de exportação e importação por estado;
+- [ ] Integrar dados por UF;
+- [ ] Criar Bancos de dados estadual unico;
+- [ ] Comparar estados entre si em diferentes Ramos de negócios;
+- [ ] Vizaulizar no Dashboard a movimentação por estado;
+- [ ] Criar gráficos de evolução mensal e anual;
+- [ ] listar parceiros comercias por estado;
+- [ ] Vizualizar Rank de estados por volume de exportação e importação;
 
 ## Sprint 2
 - [ ] Documento passo a passo;
@@ -84,8 +89,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | dd/mm/aaaa | a fazer| [MVP](https://) | 
-|02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
-|03| dd/mm/aaaa | a fazer|[MVP](https://) | 
-|04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
+|01 | 29/09/2025 | a fazer| [MVP](https://) | 
+|02|  20/10/2025| a fazer|[MVP](https://) | 
+|03| 17/11/2025 | a fazer|[MVP](https://) | 
+|Feira de Soluções|04/12/2025 |a fazer |[MVP](https://) | 
