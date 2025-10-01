@@ -50,18 +50,22 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Acessar dados consolidados de exportação e importação por estado;
 - [ ] Integrar dados por UF;
 - [ ] Criar Bancos de dados estadual unico;
-- [ ] Comparar estados entre si em diferentes Ramos de negócios;
-- [ ] Vizaulizar no Dashboard a movimentação por estado;
+- [ ] Comparar estados entre si e identificar seu desempenho;
+- [ ] Vizaulizar no Dashboard a movimentação e o modal de transporte por estado;
 - [ ] Criar gráficos de evolução mensal e anual;
-- [ ] listar parceiros comercias por estado;
+- [ ] listar  principais parceiros comercias por estado;
 - [ ] Vizualizar Rank de estados por volume de exportação e importação;
+- [ ] Vizualizar Rank de produtos NCM de exportação e importação;
 
 ## Sprint 2
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [ ] Integrar e filtar dados de exportação e importação da comex stat, por municípios do estado de São Paulo;
+- [ ] Criar banco de dados único com todos os dados necessários;
+- [ ] Realizar as alterações necessárias no dashboard da apresentação do 1° Sprint;
+- [ ] Comparar os municípios entre si, para identificar  regiões com alto ou baixo desempenho;
+- [ ] Vizualizar a origem das exportações/Importações;
+- [ ] Criar tabelas e gráficos de evolução mensal e anual dos municípios de maior relevância;
+- [ ] Criar Rank de exportação e importação de produto (NCM), por município, e identificar polos comerciais;
+- [ ] Iniciar a documentação escrita usando modelo de relatório;
       
 ## Sprint 3
 - [ ] Defina o propósito do template;
@@ -74,7 +78,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
       
-## Sprint 4
+## Sprint 4 Feira de soluções
 - [ ] Defina o propósito do template;
 - [ ] Identifique os elementos principais;
 - [ ] Esboce o layout;
