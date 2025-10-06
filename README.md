@@ -53,11 +53,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Integrar dados por UF;
 - [ ] Criar Bancos de dados estadual unico;
 - [ ] Comparar estados entre si e identificar seu desempenho;
-- [ ] Vizaulizar no Dashboard a movimentação e o modal de transporte por estado;
+- [ ] Visualizar no Dashboard, a movimentação e o modal de transporte por estado;
 - [ ] Criar gráficos de evolução mensal e anual;
 - [ ] listar  principais parceiros comercias por estado;
-- [ ] Vizualizar Rank de estados por volume de exportação e importação;
-- [ ] Vizualizar Rank de produtos NCM de exportação e importação;
+- [ ] Visualizar o ranking de estados por volume de exportação e importação;
+- [ ] Visualizar o ranking de produtos NCM de exportação e importação;
 
 ## Sprint 2
 - [ ] Integrar e filtar dados de exportação e importação da comex stat, por municípios do estado de São Paulo;
