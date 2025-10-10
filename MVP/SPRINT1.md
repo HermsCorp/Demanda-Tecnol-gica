@@ -34,40 +34,44 @@ Conseguir analisar peso total transportado, valor total FOB, frete e de seguro, 
 |--------|----------------------------------------------|----------|
 | 01     | Integrar dados da Comexstat por UF                     | Concluído|
 | 02     | Criar banco de dados estudual único                  | Concluído |
-| 03     | Analisart a qualidade dos dados                  | Concluído |
-| 04     | criar ranking dos                  | Concluído |
-| 05     | Criar banco de dados estudual único                  | Concluído |
-| 06     | Criar banco de dados estudual único                  | Concluído |
+| 03     | Analisar a qualidade dos dados                  | Concluído |
+| 04     | criar ranking dos estados brasileiros          | Concluído |
+| 05     | Criar gráficos de evolução mensal e anual                 | Concluído |
+| 06     | Criar mapas interativos de fluxos comerciais            | Concluído |
 | 07     | Criar banco de dados estudual único                  | Concluído |
-| 08     | Criar banco de dados estudual único                  | Concluído |
-| 09     | Criar banco de dados estudual único                  | Concluído |
-| 10     | Criar banco de dados estudual único                  | Concluído |
-| 11     | Criar banco de dados estudual único                  | Concluído |
+| 08     | Listar principais parceiros comerciais por estados                  | Concluído |
+| 09     | Criar ranking de proutos por código NCM                  | Concluído |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário consiga ver as informações de desempenho dos estados brasaileiros. 
+- O dashbord deve registrar dados consolidados, interativos e atualizados.    
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP: 5 usuários
+- Feedback qualitativo: O dashbord já está funcional, conseguindo entregar métricas precisas para identificar ascenção, estagnação ou declínio dos mercados, porém, é possível criar alguns cálculos para ajudar na tomada decisão, e melhorar a aplicabilidade dos filtros, deixando-os minimalistas.
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
+- Desenvolver um índice de filtros minimalistas e sincrônicos;
 - Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Desenvolver calcúlos como FOB / KG para ajudar na tomada de decisão.   
 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+<img width="971" height="549" alt="image" src="https://github.com/user-attachments/assets/f6445ea2-1729-4af8-b329-dde0162826f6" />
+<img width="986" height="549" alt="image" src="https://github.com/user-attachments/assets/833be107-5d97-40b4-8ee7-3712fe5adde6" />
+
+
+
+https://github.com/user-attachments/assets/24f1010b-b38c-4e20-816f-d2e2761ecbe2
+
+
+
+
+
