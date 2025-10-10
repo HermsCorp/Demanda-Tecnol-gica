@@ -59,7 +59,7 @@ Conseguir analisar peso total transportado, valor total FOB, frete e de seguro, 
 ## 🚀 Próximos Passos
 - Desenvolver um índice de filtros minimalistas e sincrônicos;
 - Ajustes de usabilidade  
-- Desenvolver calcúlos como FOB / KG para ajudar na tomada de decisão.   
+- Desenvolver cálculos como FOB / KG para ajudar na tomada de decisão.   
 
 ---
 
