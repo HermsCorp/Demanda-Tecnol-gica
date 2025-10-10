@@ -1,40 +1,48 @@
 # 📌 MVP - Aprendizagem por Projeto Integrador (API)
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  poder analisar dados consolidados em um dashbord dinâmico e objetivo, obtendo informações relevantes para planejamento
-- Qual hipótese será validada?  Os estados brasileiros estão com qual desempenho?
-- Qual valor será entregue ao usuário final? Poder identificar possíveis demandas e mercados emergentes com mais agilidade e precisão
+- O objetivo do MVP é validar e organizar as informações, gráficos e filtros que permitem analisar possíveis estratégias em possíveis tendências e/ou mercados emergentes. 
+- A maioria dos estados brasileiros tiveram um bom desempenho, resultando em superavit nos anos analisados. 
+- A ferramenta está funcional e com dados validados, mas, alguns pontos ainda podem ser melhorados para obter cálculos rápidos e decisivos. 
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
-- Acompanhamento histórico de movimentação; ranking de ncm e volume transportado; 
+>Já nessa sprint será possível analisar a movimentação histórica, ranking de países e estados, e NCM transportados. 
+Conseguir analisar peso total transportado, valor total FOB, frete e de seguro, todos filtrados por estados, países, ano e vias. 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+- A persona dessa sprint é o analista de logística que poderá analisar as novas tendências e mercados emergêntes, avaliando seu potencial ou desvalorização. Poder encontrar esses pontos rapidamente, de forma intuitiva e sincrônica com dados consolidados é o objetivo do dashbord para o usuário-alvo.
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| ID  | User Story    | Prioridade |
+|-----|-----------------------------------------------------------------------------|------------|
+| US1 | Como analista estadual, quero acessar dados consolidados de exportação e importação por estado, para entender o desempenho regional.         | Alta       |
+| US2 | Como gestor estadual, quero comparar os estados entre si, para identificar líderes e regiões com baixo desempenho.         | Alta      |
+| US3 | Como gestor de economia, quero visualizar gráficos de movimentações por estados, para monitorar tendências.         | Média      |
+| US4 | Como gestor de logística, quero identificar os principais destinos e origens de cada estado, para orientar políticas de internacionalização.         | Média      |
+| US5 | Como empresário estadual, quero saber os produtos mais exportados e importados do meu estado, para avaliar a competitividade.         | Média      |
+| US6 | Como analista de comércio exterior, quero visualizar o ranking de estados por volume de importação e exportação, para identificar os principais polos comerciais .         | Média      |
+
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Integrar dados da Comexstat por UF                     | Concluído|
+| 02     | Criar banco de dados estudual único                  | Concluído |
+| 03     | Analisart a qualidade dos dados                  | Concluído |
+| 04     | criar ranking dos                  | Concluído |
+| 05     | Criar banco de dados estudual único                  | Concluído |
+| 06     | Criar banco de dados estudual único                  | Concluído |
+| 07     | Criar banco de dados estudual único                  | Concluído |
+| 08     | Criar banco de dados estudual único                  | Concluído |
+| 09     | Criar banco de dados estudual único                  | Concluído |
+| 10     | Criar banco de dados estudual único                  | Concluído |
+| 11     | Criar banco de dados estudual único                  | Concluído |
 
 ---
 
