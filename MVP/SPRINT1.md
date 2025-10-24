@@ -2,8 +2,8 @@
 
 ## 🎯 Objetivo do MVP
 - O objetivo do MVP é validar e organizar as informações, gráficos e filtros que permitem analisar possíveis estratégias em possíveis tendências e/ou mercados emergentes. 
-- A maioria dos estados brasileiros tiveram um bom desempenho, resultando em superavit nos anos analisados. 
-- A ferramenta está funcional e com dados validados, mas, alguns pontos ainda podem ser melhorados para obter cálculos rápidos e decisivos. 
+- A maioria dos estados brasileiros tiveram um bom desempenho, analisar estados que tiveram superávit.
+- Dessenvolver uma ferramenta funcional e com dados validados, e aprimorar alguns alguns pontos que podem ser melhorados para obter cálculos rápidos e decisivos. 
 
 ---
 
@@ -29,7 +29,7 @@ Conseguir analisar peso total transportado, valor total FOB, frete e de seguro, 
 
 ---
 
-## 📅 Sprint(s) Relacionadas
+## 📅 Sprint Goals Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Integrar dados da Comexstat por UF                     | Concluído|
