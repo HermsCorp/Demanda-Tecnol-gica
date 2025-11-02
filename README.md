@@ -1,6 +1,6 @@
 # Aprendizado por Projeto Integrador (API) 
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 # Índice
 * [Projeto](#projeto (API))
@@ -11,7 +11,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Registro das sprints](#Registro-das-sprints). 
 
 # Projeto (API) 
-Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre importação e exportação do Brasil nos anos 2023, 2024 e 2025, identificando tendências, padrões e tirando conclusões que apoiem a tomada de decisões com base nas analises realizadas. E Criando um DashBoard utilizando os dados em uma única interface, de forma interativa e fácil visualização utilizando de gráficos, mapas interativos, e mecanismos de analise visual.
+Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre importação e exportação do Brasil nos anos 2023, 2024 e 2025, identificando tendências, padrões e tirando conclusões que apoiem a tomada de decisões com base nas analises realizadas. E Criando um DashBoard utilizando os dados em uma única interface, de forma interativa e de fácil visualização utilizando de gráficos, mapas interativos, e mecanismos de análise visual.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -25,6 +25,7 @@ Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre 
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
+
 * Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
 * Versionar e controlar as alterações;
