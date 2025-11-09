@@ -96,6 +96,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 29/09/2025 | Concluído| [MVP](https://github.com/HermsCorp/Demanda-Tecnol-gica/blob/main/MVP/SPRINT1.md) | 
-|02|  20/10/2025| a fazer|[MVP](https://) | 
+|02|  20/10/2025| Concluído |[MVP](https://github.com/HermsCorp/MVP/blob/main/README.md) | 
 |03| 17/11/2025 | a fazer|[MVP](https://) | 
 |Feira de Soluções|04/12/2025 |a fazer |[MVP](https://) | 
