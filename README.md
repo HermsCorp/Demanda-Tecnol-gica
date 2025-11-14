@@ -8,7 +8,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas).
 * [Backlog do produto](#Backlog-do-produto)
-* [Registro das sprints](#Registro-das-sprints). 
+* [Canal no Youtube](#Canal-no-Youtube).
+* [Registro das sprints](#Registro-das-sprints)
 
 # Projeto (API)
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
@@ -82,15 +83,19 @@ Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre 
 - [ ] Criar uma pagina no dashboard, que permita vizualizar dados de São José dos Campos e compara-los com outros municípios.;
 - [ ] Fazer análises basicas com bases nas possísiveis comparações;
 - [ ]  Dessenvolver análises mais Complexas e completas;
-
------------
-
-      
       
 ## Sprint 4 Feira de soluções
 
 Ainda em Produção 
 
+---------
+
+# Canal no Youtube
+ Criamos um canal no Youtube com o intuito de esclarecer os processos da resolução  
+
+[![YouTube Badge](https://www.youtube.com/@HermesCorpFatec)]
+
+----------
 # Registro das Sprints
 
 Sprint | Previsão | Status| Histórico|
