@@ -3,16 +3,24 @@
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 # Índice
-* [Projeto](#projeto (API))
-* [Equipe](#equipe)
+* [Projeto](#Projeto (API))
+* [Equipe](#Equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas).
 * [Backlog do produto](#Backlog-do-produto)
 * [Registro das sprints](#Registro-das-sprints). 
 
-# Projeto (API) 
-Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre importação e exportação do Brasil nos anos 2023, 2024 e 2025, identificando tendências, padrões e tirando conclusões que apoiem a tomada de decisões com base nas analises realizadas. E Criando um DashBoard utilizando os dados em uma única interface, de forma interativa e de fácil visualização utilizando de gráficos, mapas interativos, e mecanismos de análise visual.
+# Projeto (API)
+Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 
+* Centralizar os trabalhos e projetos;
+* Organizar e estruturar as informações;
+* Versionar e controlar as alterações;
+* Facilitar o compartilhamento e feedback;
+* Desenvolver habilidades técnicas.
+
+
+  
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -23,14 +31,11 @@ Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre 
 |  Team Member  | Marcos Santana da Silva                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-santana04?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcossantana1)   |
 |  Team Member  | Geovane Gouvea Ramos                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giovane-gouvea-ramos-a2263726b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GiovaneRamos012)   |
 
-# Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+# Objetivo do projeto
+
+Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre importação e exportação do Brasil nos anos 2023, 2024 e 2025, identificando tendências, padrões e tirando conclusões que apoiem a tomada de decisões com base nas analises realizadas. E Criando um DashBoard utilizando os dados em uma única interface, de forma interativa e de fácil visualização utilizando de gráficos, mapas interativos, e mecanismos de análise visual.
+
 
 ## Tecnologias Utilizadas
 
