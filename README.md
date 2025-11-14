@@ -70,32 +70,27 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Iniciar a documentação escrita usando modelo de relatório;
       
 ## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Criar um vizualizador de dados de exportação e importação dos produtos comercializados por São José dos Campos;
+- [ ] Gerar uma análise sobre os produtos importados e exportados, seu valor, peso e seu destino/origem.;
+- [ ] Corrigir as informações e as analises graficas das sprints passadas;
+- [ ] Dessenvolver um design próprio para o "DashBoard", de forma que permita a vizualização das informações e análises;
+- [ ] Criar uma pagina no dashboard, que permita vizualizar dados de São José dos Campos e compara-los com outros municípios.;
+- [ ] Fazer análises basicas com bases nas possísiveis comparações;
+- [ ]  Dessenvolver análises mais Complexas e completas;
+
+-----------
+
+      
       
 ## Sprint 4 Feira de soluções
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+
+Ainda em Produção 
 
 # Registro das Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 29/09/2025 | Concluído| [MVP](https://github.com/HermsCorp/Demanda-Tecnol-gica/blob/main/MVP/SPRINT1.md) | 
-|02|  20/10/2025| Concluído |[MVP](https://github.com/HermsCorp/MVP/blob/main/README.md) | 
-|03| 17/11/2025 | a fazer|[MVP](https://) | 
+|02|  03/11/2025| Concluído |[MVP](https://github.com/HermsCorp/MVP/blob/main/README.md) | 
+|03| 28/11/2025 | a fazer|[MVP](https://) | 
 |Feira de Soluções|04/12/2025 |a fazer |[MVP](https://) | 
