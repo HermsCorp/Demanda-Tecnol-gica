@@ -35,7 +35,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Objetivo do projeto
 
-Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre importação e exportação do Brasil nos anos 2023, 2024 e 2025, identificando tendências, padrões e tirando conclusões que apoiem a tomada de decisões com base nas analises realizadas. E Criando um DashBoard utilizando os dados em uma única interface, de forma interativa e de fácil visualização utilizando de gráficos, mapas interativos, e mecanismos de análise visual.
+ Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre importação e exportação do Brasil nos anos 2023, 2024 e 2025, identificando tendências, padrões e tirando conclusões que apoiem a tomada de decisões com base nas analises realizadas. E Criando um DashBoard utilizando os dados em uma única interface, de forma interativa e de fácil visualização utilizando de gráficos, mapas interativos, e mecanismos de análise visual.
 
 
 ## Tecnologias Utilizadas
@@ -51,6 +51,8 @@ Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre 
  > Plataforma Digital Github.com;
  > Armazenamento em nuvem utilizando Google Drive;
  > Linguagem de programação Python;
+
+------------------
 
 # Backlog do produto
 
@@ -84,16 +86,12 @@ Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre 
 - [ ] Fazer análises basicas com bases nas possísiveis comparações;
 - [ ]  Dessenvolver análises mais Complexas e completas;
       
-## Sprint 4 Feira de soluções
-
-Ainda em Produção 
-
 ---------
 
 # Canal no Youtube
  Criamos um canal no Youtube com o intuito de esclarecer os processos da resolução  
 
-[![YouTube Badge](https://www.youtube.com/@HermesCorpFatec)]
+[![YouTube](https://camo.githubusercontent.com/416d056cb68c516213474d983f37d52df4f7c9690ae50a1d3e27307153b46a4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334646303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d596f7554756265266c6f676f436f6c6f723d7768697465)](https://www.youtube.com/@HermesCorpFatec)
 
 ----------
 # Registro das Sprints
