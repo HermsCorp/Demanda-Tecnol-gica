@@ -16,7 +16,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 * Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
+* Supervisionar e controlar as alterações;
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
 
@@ -35,14 +35,14 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Objetivo do projeto
 
- Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre importação e exportação do Brasil nos anos 2023, 2024 e 2025, identificando tendências, padrões e tirando conclusões que apoiem a tomada de decisões com base nas analises realizadas. E Criando um DashBoard utilizando os dados em uma única interface, de forma interativa e de fácil visualização utilizando de gráficos, mapas interativos, e mecanismos de análise visual.
+ Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre importação e exportação do Brasil nos anos 2023 a 2025, identificando tendências, padrões e extraindo conclusões que apoiem as tomadas de decisões com base nas analises realizadas. E criando um DashBoard utilizando os dados em uma única interface, de forma interativa e de fácil visualização utilizando de gráficos, mapas interativos, e mecanismos de análise visual.
 
 --------
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
  > Plataforma digital Jira Softaware;
- > Aplicato WhatsApp messenger como forma de comunicação;
+ > Aplicativo WhatsApp messenger como forma de comunicação;
  > Softwares do Pacote Office;
   
  ### Tecnologias da Informação
@@ -59,11 +59,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Sprint 1
 - [ ] Acessar dados consolidados de exportação e importação por estado;
 - [ ] Integrar dados por UF;
-- [ ] Criar Bancos de dados estadual unico;
+- [ ] Criar Bancos de dados estadual único;
 - [ ] Comparar estados entre si e identificar seu desempenho;
 - [ ] Visualizar no Dashboard, a movimentação e o modal de transporte por estado;
 - [ ] Criar gráficos de evolução mensal e anual;
-- [ ] listar  principais parceiros comercias por estado;
+- [ ] listar  principais parceiros comerciais por estado;
 - [ ] Visualizar o ranking de estados por volume de exportação e importação;
 - [ ] Visualizar o ranking de produtos NCM de exportação e importação;
 
@@ -78,19 +78,19 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Iniciar a documentação escrita usando modelo de relatório;
       
 ## Sprint 3
-- [ ] Criar um vizualizador de dados de exportação e importação dos produtos comercializados por São José dos Campos;
+- [ ] Criar um visualizador de dados de exportação e importação dos produtos comercializados por São José dos Campos;
 - [ ] Gerar uma análise sobre os produtos importados e exportados, seu valor, peso e seu destino/origem.;
-- [ ] Corrigir as informações e as analises graficas das sprints passadas;
-- [ ] Dessenvolver um design próprio para o "DashBoard", de forma que permita a vizualização das informações e análises;
+- [ ] Corrigir as informações e as análises gráficas das sprints passadas;
+- [ ] Desenvolver um design próprio para o "DashBoard", de forma que permita a vizualização das informações e análises;
 - [ ] Criar uma pagina no dashboard, que permita vizualizar dados de São José dos Campos e compara-los com outros municípios.;
-- [ ] Fazer análises basicas com bases nas possísiveis comparações;
-- [ ]  Dessenvolver análises mais Complexas e completas;
+- [ ] Fazer análises básicas com bases nas possísiveis comparações;
+- [ ]  Desenvolver análises mais complexas e completas;
       
 ---------
 
 # Canal no Youtube
  Criamos um canal no Youtube com o intuito de esclarecer os processos da resolução da demanda de análise de dados.
- Desde a filtragem e "limpeza" dos dados com Python através do google colab, até a montagem e criação de um DashBoard que permita uma fácil vizualização e interpretação dos mesmos dados. 
+ Desde a filtragem e "limpeza" dos dados com Python através do google colab, até a montagem e criação de um DashBoard que permita uma fácil visualização e interpretação dos mesmos dados. 
 
 [![YouTube](https://camo.githubusercontent.com/416d056cb68c516213474d983f37d52df4f7c9690ae50a1d3e27307153b46a4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334646303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d596f7554756265266c6f676f436f6c6f723d7768697465)](https://www.youtube.com/@HermesCorpFatec)
 
