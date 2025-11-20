@@ -2,15 +2,6 @@
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
-# Índice
-* [Projeto](#Projeto (API))
-* [Equipe](#Equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas).
-* [Backlog do produto](#Backlog-do-produto)
-* [Canal no Youtube](#Canal-no-Youtube).
-* [Registro das sprints](#Registro-das-sprints)
-
 # Projeto (API)
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 
@@ -19,6 +10,15 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Supervisionar e controlar as alterações;
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
+
+# Índice
+* [Projeto](#Projeto (API))
+* [Equipe](#Equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas).
+* [Backlog do produto](#Backlog-do-produto)
+* [Canal no Youtube](#Canal-no-Youtube).
+* [Registro das sprints](#Registro-das-sprints)
 
 
   
@@ -35,7 +35,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Objetivo do projeto
 
- Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre importação e exportação do Brasil nos anos 2023 a 2025, identificando tendências, padrões e extraindo conclusões que apoiem as tomadas de decisões com base nas analises realizadas. E criando um DashBoard utilizando os dados em uma única interface, de forma interativa e de fácil visualização utilizando de gráficos, mapas interativos, e mecanismos de análise visual.
+   Sanar uma demanda tecnológica, de análise de dados e sua visualização sobre importação e exportação do Brasil nos anos 2023 a 2025, identificando tendências, padrões e extraindo conclusões que apoiem as tomadas de decisões com base nas analises realizadas. E criando um DashBoard utilizando os dados em uma única interface, de forma interativa e de fácil visualização utilizando de gráficos, mapas interativos, e mecanismos de análise visual.
+
+   
 
 --------
 ## Tecnologias Utilizadas
