@@ -59,35 +59,33 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Acessar dados consolidados de exportação e importação por estado;
-- [ ] Integrar dados por UF;
-- [ ] Criar Bancos de dados estadual único;
-- [ ] Comparar estados entre si e identificar seu desempenho;
-- [ ] Visualizar no Dashboard, a movimentação e o modal de transporte por estado;
-- [ ] Criar gráficos de evolução mensal e anual;
-- [ ] listar  principais parceiros comerciais por estado;
-- [ ] Visualizar o ranking de estados por volume de exportação e importação;
-- [ ] Visualizar o ranking de produtos NCM de exportação e importação;
+| ID  | User Story    | Prioridade |
+|-----|-----------------------------------------------------------------------------|------------|
+| US1 | Como analista estadual, quero acessar dados consolidados de exportação e importação por estado, para entender o desempenho regional.         | Alta       |
+| US2 | Como gestor estadual, quero comparar os estados entre si, para identificar líderes e regiões com baixo desempenho.         | Alta      |
+| US3 | Como gestor de economia, quero visualizar gráficos de movimentações por estados, para monitorar tendências.         | Média      |
+| US4 | Como gestor de logística, quero identificar os principais destinos e origens de cada estado, para orientar políticas de internacionalização.         | Média      |
+| US5 | Como empresário estadual, quero saber os produtos mais exportados e importados do meu estado, para avaliar a competitividade.         | Média      |
+| US6 | Como analista de comércio exterior, quero visualizar o ranking de estados por volume de importação e exportação, para identificar os principais polos comerciais .         | Média      |
 
 ## Sprint 2
-- [ ] Integrar e filtar dados de exportação e importação da comex stat, por municípios do estado de São Paulo;
-- [ ] Criar banco de dados único com todos os dados necessários;
-- [ ] Realizar as alterações necessárias no dashboard da apresentação do 1° Sprint;
-- [ ] Comparar os municípios entre si, para identificar  regiões com alto ou baixo desempenho;
-- [ ] Vizualizar a origem das exportações/Importações;
-- [ ] Criar tabelas e gráficos de evolução mensal e anual dos municípios de maior relevância;
-- [ ] Criar Rank de exportação e importação de produto (NCM), por município, e identificar polos comerciais;
-- [ ] Iniciar a documentação escrita usando modelo de relatório;
+ ID | User Stories   | Prioridade | 
+| ------ | -----------------------------------   | ------------ |
+| US1 |  Como analista municipal, quero acessar dados consolidados de exportação e importação por município, para entender o desempenho regional. | Alta |
+| US2 |  Como gestor municipal, quero comparar os municípios entre si, para identificar regiões com alto ou baixo desempenho. | Alta |
+| US3 |  Como gestor municipal quero a visualização da origem e do destino das importações e exportações. | Alta |
+| US4 |  Como analista municipal quero um  Rank de exportação e importação de produto (NCM), por município. | Média |
+| US5 |  Como analista municipal quero vizualizar tabelas e gráficos de evolução mensal e anual dos municípios de maior relevância. | Média |
+| US6 |  Como gestor municipal quero um rank de municípios com maiores valores de exportações e importações.  | Baixa | 
       
 ## Sprint 3
-- [ ] Criar um visualizador de dados de exportação e importação dos produtos comercializados por São José dos Campos;
-- [ ] Gerar uma análise sobre os produtos importados e exportados, seu valor, peso e seu destino/origem.;
-- [ ] Corrigir as informações e as análises gráficas das sprints passadas;
-- [ ] Desenvolver um design próprio para o "DashBoard", de forma que permita a vizualização das informações e análises;
-- [ ] Criar uma pagina no dashboard, que permita vizualizar dados de São José dos Campos e compara-los com outros municípios.;
-- [ ] Fazer análises básicas com bases nas possísiveis comparações;
-- [ ]  Desenvolver análises mais complexas e completas;
-      
+| ID | User Stories   | Prioridade | 
+| ------ | -----------------------------------   | ------------ |
+| US1 |  Como empresário da região quero um vizualizador e um comparativo de São José dos Campos, com outros Municípios. | Alta |
+| US2 | Como analísta quero a visualização dos produtos de forma otimizada, organizada e fácil compreensão. | Alta |
+| US3 | Como gestor de logística, quero identificar os principais destinos e origens das exportações e importações São José dos Campos, para orientar políticas de comercio. . | Média |
+| US4 | Como gestor de logistica quero as correções e vizualizações corretas das informações e análises das "sprints" anteriores. | Média |
+
 ---------
 
 # Canal no Youtube
