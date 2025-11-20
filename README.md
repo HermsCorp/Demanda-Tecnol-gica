@@ -58,7 +58,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Backlog do produto
 
-## Sprint 1
+  ## Sprint 1
 | ID  | User Story    | Prioridade |
 |-----|-----------------------------------------------------------------------------|------------|
 | US1 | Como analista estadual, quero acessar dados consolidados de exportação e importação por estado, para entender o desempenho regional.         | Alta       |
@@ -71,20 +71,21 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Sprint 2
  ID | User Stories   | Prioridade | 
 | ------ | -----------------------------------   | ------------ |
-| US1 |  Como analista municipal, quero acessar dados consolidados de exportação e importação por município, para entender o desempenho regional. | Alta |
-| US2 |  Como gestor municipal, quero comparar os municípios entre si, para identificar regiões com alto ou baixo desempenho. | Alta |
-| US3 |  Como gestor municipal quero a visualização da origem e do destino das importações e exportações. | Alta |
-| US4 |  Como analista municipal quero um  Rank de exportação e importação de produto (NCM), por município. | Média |
-| US5 |  Como analista municipal quero vizualizar tabelas e gráficos de evolução mensal e anual dos municípios de maior relevância. | Média |
-| US6 |  Como gestor municipal quero um rank de municípios com maiores valores de exportações e importações.  | Baixa | 
+| US7 |  Como analista municipal, quero acessar dados consolidados de exportação e importação por município, para entender o desempenho regional. | Alta |
+| US8 |  Como gestor municipal, quero comparar os municípios entre si, para identificar regiões com alto ou baixo desempenho. | Alta |
+| US9 |  Como gestor municipal quero a visualização da origem e do destino das importações e exportações. | Alta |
+| US10 |  Como analista municipal quero um  Rank de exportação e importação de produto (NCM), por município. | Média |
+| US11 |  Como analista municipal quero vizualizar tabelas e gráficos de evolução mensal e anual dos municípios de maior relevância. | Média |
+| US12 |  Como gestor municipal quero um rank de municípios com maiores valores de exportações e importações.  | Baixa | 
       
 ## Sprint 3
+
 | ID | User Stories   | Prioridade | 
 | ------ | -----------------------------------   | ------------ |
-| US1 |  Como empresário da região quero um vizualizador e um comparativo de São José dos Campos, com outros Municípios. | Alta |
-| US2 | Como analísta quero a visualização dos produtos de forma otimizada, organizada e fácil compreensão. | Alta |
-| US3 | Como gestor de logística, quero identificar os principais destinos e origens das exportações e importações São José dos Campos, para orientar políticas de comercio. . | Média |
-| US4 | Como gestor de logistica quero as correções e vizualizações corretas das informações e análises das "sprints" anteriores. | Média |
+| US13 |  Como empresário da região quero um vizualizador e um comparativo de São José dos Campos, com outros Municípios. | Alta |
+| US14 | Como analísta quero a visualização dos produtos de forma otimizada, organizada e fácil compreensão. | Alta |
+| US15 | Como gestor de logística, quero identificar os principais destinos e origens das exportações e importações São José dos Campos, para orientar políticas de comercio. . | Média |
+| US16 | Como gestor de logistica quero as correções e vizualizações corretas das informações e análises das "sprints" anteriores. | Média |
 
 ---------
 
