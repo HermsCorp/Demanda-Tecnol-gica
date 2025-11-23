@@ -102,5 +102,5 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 29/09/2025 | Concluído| [MVP](https://github.com/HermsCorp/Demanda-Tecnol-gica/blob/main/MVP/SPRINT1.md) | 
 |02|  03/11/2025| Concluído |[MVP](https://github.com/HermsCorp/MVP/blob/main/README.md) | 
-|03| 28/11/2025 | a fazer|[MVP](https://github.com/HermsCorp/MVP-3-Sprint/blob/main/README.md) | 
-|Feira de Soluções|04/12/2025 |a fazer |[MVP](https://) | 
+|03| 28/11/2025 | Concluido |[MVP](https://github.com/HermsCorp/MVP-3-Sprint/blob/main/README.md) | 
+
